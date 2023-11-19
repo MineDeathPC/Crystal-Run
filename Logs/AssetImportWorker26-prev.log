@@ -15,7 +15,7 @@ C:/Users/User/Desktop/Disasters
 -logFile
 Logs/AssetImportWorker26.log
 -srvPort
-50426
+51132
 Successfully changed project path to: C:/Users/User/Desktop/Disasters
 C:/Users/User/Desktop/Disasters
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/User/Desktop/Disasters
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [2856] Host "[IP] 0.0.0.0 [Port] 0 [Flags] 2 [Guid] 3758217757 [EditorId] 3758217757 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UFVRGEN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [13160] Host "[IP] 192.168.0.113 [Port] 0 [Flags] 2 [Guid] 3543634283 [EditorId] 3543634283 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UFVRGEN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [2856] Host "[IP] 0.0.0.0 [Port] 0 [Flags] 2 [Guid] 3758217757 [EditorId] 3758217757 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UFVRGEN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [13160] Host "[IP] 192.168.0.113 [Port] 0 [Flags] 2 [Guid] 3543634283 [EditorId] 3543634283 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UFVRGEN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 221.39 ms, found 3 plugins.
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 149.71 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2023.1.0b11 (d7a57a783dcc)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.1.0b11/Editor/Data/Resources/UnitySubsystems
@@ -84,12 +84,12 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.0b11/
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.0b11/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.0b11/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.0b11/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
-Registered in 0.217368 seconds.
-- Loaded All Assemblies, in  7.972 seconds
+Registered in 0.144576 seconds.
+- Loaded All Assemblies, in  8.461 seconds
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 4076 ms
+Android Extension - Scanning For ADB Devices 6000 ms
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
