@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9f271991d18f7f4ca3428592f9669c6
+timeCreated: 1461167392
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61071
+  packageName: Low Poly Ground
+  packageVersion: 1.2
+  assetPath: Assets/LowPolyGround/Materials/MatBrown.mat
+  uploadId: 284347

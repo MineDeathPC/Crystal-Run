@@ -1,0 +1,9 @@
+com.DeathStudios.CrystalRunner.launcher-pngs-0 C:\Users\User\Desktop\Disasters\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DeathStudios.CrystalRunner.launcher-resValues-1 C:\Users\User\Desktop\Disasters\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DeathStudios.CrystalRunner.launcher-rs-2 C:\Users\User\Desktop\Disasters\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DeathStudios.CrystalRunner.launcher-mergeReleaseResources-3 C:\Users\User\Desktop\Disasters\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DeathStudios.CrystalRunner.launcher-mergeReleaseResources-4 C:\Users\User\Desktop\Disasters\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DeathStudios.CrystalRunner.launcher-merged_res-5 C:\Users\User\Desktop\Disasters\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DeathStudios.CrystalRunner.launcher-main-6 C:\Users\User\Desktop\Disasters\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DeathStudios.CrystalRunner.launcher-release-7 C:\Users\User\Desktop\Disasters\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DeathStudios.CrystalRunner.launcher-packaged_res-8 C:\Users\User\Desktop\Disasters\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
